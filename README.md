@@ -46,4 +46,4 @@ Os usuários devem ser capazes de:
 
 - [Google Fonts](https://fonts.google.com/) - Utilizado para colocar as fontes do projeto.
 
-- [Boxicons](https://fontawesome.com/) - Utilizado para colocar os icones das redes sociais.
+- [Font Awesome](https://fontawesome.com/) - Utilizado para colocar os icones das redes sociais.
